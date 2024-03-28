@@ -26,15 +26,4 @@ The School Management System is a Java-based application that helps manage vario
 3. Compile and run the Main.java file to start the application.
 4. Follow the on-screen prompts to interact with the School Management System.
 
-## Example
-
-```java
-// Example usage in Main.java
-public class Main {
-    public static void main(String[] args) {
-        // Instantiate the School object and interact with it
-        // Add teachers, students, pay fees, pay salaries, and display school status
-    }
-}
-```
 
